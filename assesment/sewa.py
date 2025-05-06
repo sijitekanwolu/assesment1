@@ -4,10 +4,11 @@ from datetime import datetime, timedelta
 class Sewa:
     BIAYA_PER_JAM = 50000  # Tarif sewa per jam
 
-    def __init__(self, nama_penyewa, no_telp, tanggal_sewa, jam_mulai, jam_selesai):
+    def __init__(self, nama_penyewa, no_telp, tanggal_sewa, hari, jam_mulai, jam_selesai):
         self.nama_penyewa = nama_penyewa
         self.no_telp = no_telp
         self.tanggal_sewa = tanggal_sewa
+        self.hari = hari
         self.jam_mulai = jam_mulai
         self.jam_selesai = jam_selesai
 
@@ -36,6 +37,7 @@ class Sewa:
             self.nama_penyewa,
             self.no_telp,
             self.tanggal_sewa,
+            self.hari,
             self.jam_mulai,
             self.jam_selesai
         ]
