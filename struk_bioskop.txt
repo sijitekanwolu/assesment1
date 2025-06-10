@@ -1,0 +1,16 @@
+==== STRUK BIOSKOP ====
+Film     : Spider-Man: No Way Home
+Jadwal   : 18:00
+Jumlah   : 4
+Total    : Rp180,000
+Waktu    : 2025-05-22 21:16:19.341425
+========================
+
+==== STRUK BIOSKOP ====
+Film     : Avengers: Endgame
+Jadwal   : 13:00
+Jumlah   : 5
+Total    : Rp225,000
+Waktu    : 2025-05-22 21:25:22.945937
+========================
+

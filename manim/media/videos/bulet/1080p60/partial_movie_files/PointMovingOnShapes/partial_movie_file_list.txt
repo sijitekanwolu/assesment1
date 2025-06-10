@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/yusuf/OneDrive/Documents/folder pyhton/manim/media/videos/bulet/1080p60/partial_movie_files/PointMovingOnShapes/3977891868_287898657_3788634887.mp4'
+file 'file:C:/Users/yusuf/OneDrive/Documents/folder pyhton/manim/media/videos/bulet/1080p60/partial_movie_files/PointMovingOnShapes/2852726489_430662505_1531903480.mp4'
+file 'file:C:/Users/yusuf/OneDrive/Documents/folder pyhton/manim/media/videos/bulet/1080p60/partial_movie_files/PointMovingOnShapes/2852726489_1347964676_1253141396.mp4'
+file 'file:C:/Users/yusuf/OneDrive/Documents/folder pyhton/manim/media/videos/bulet/1080p60/partial_movie_files/PointMovingOnShapes/2852726489_26213667_1531903480.mp4'
+file 'file:C:/Users/yusuf/OneDrive/Documents/folder pyhton/manim/media/videos/bulet/1080p60/partial_movie_files/PointMovingOnShapes/2852726489_1754310298_2281046868.mp4'
